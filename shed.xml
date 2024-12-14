@@ -1,0 +1,10 @@
+<presets 	xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+			author="Julysfire"
+			version="1.0"
+			shortdescription="Shed"
+			description="Shed.">
+	
+	<item name="shed" type="closedway">
+		<key key="building" value="shed"/>
+	</item>
+</presets>

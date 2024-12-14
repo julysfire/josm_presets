@@ -1,0 +1,12 @@
+<presets 	xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+			author="Julysfire"
+			version="1.0"
+			shortdescription="Paving Stones driveway"
+			description="Driveway made out of paving stones.">
+	
+	<item name="zdps_driveway_paving_stones" type="way">
+		<key key="highway" value="service"/>
+		<key key="service" value="driveway"/>
+		<key key="surface" value="paving_stones"/>
+	</item>
+</presets>

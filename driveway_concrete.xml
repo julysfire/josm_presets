@@ -1,0 +1,12 @@
+<presets 	xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+			author="Julysfire"
+			version="1.0"
+			shortdescription="Concrete driveway"
+			description="Driveway made out of concrete.">
+	
+	<item name="zdc_driveway_concrete" type="way">
+		<key key="highway" value="service"/>
+		<key key="service" value="driveway"/>
+		<key key="surface" value="concrete"/>
+	</item>
+</presets>

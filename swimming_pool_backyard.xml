@@ -1,0 +1,14 @@
+<presets 	xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+			author="Julysfire"
+			version="1.0"
+			shortdescription="Swimming Pool Backyard." 
+			description="Tags for backyard swimming pool.">
+			
+	<item name="zsp_swimming_pool" type="closedway">
+		<label text="Swimming Pool"/>
+		<key key="access" value="private"/>
+		<key key="leisure" value="swimming_pool"/>
+		<key key="location" value="outdoor"/>
+		<key key="swimming_pool" value="personal"/>
+	</item>
+</presets>

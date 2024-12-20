@@ -1,0 +1,12 @@
+<presets 	xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+			author="Julysfire"
+			version="1.0"
+			shortdescription="Culvert"
+			description="Mainly under driveway culvert.">
+	
+	<item name="zc_culvert" type="way">
+		<key key="layer" value="-1"/>
+		<key key="man_made" value="tunnel"/>
+		<key key="tunnel" value="culvert"/>
+	</item>
+</presets>
